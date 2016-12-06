@@ -1,0 +1,2 @@
+# AVPlayerViewControllerDemo
+AVPlayerViewController基础用法(播放本地路径/网络路径下的视频)
